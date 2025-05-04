@@ -20,8 +20,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-unzip file 
-open folder with vs 
-install vite"npm install vite"
-npm ren dev
-npm start 
+1-unzip file. 
+2-open folder with vs. 
+3-install vite"npm install vite".
+4-npm ren dev.
+n5-pm start .
