@@ -24,4 +24,4 @@ Follow these steps to run the project locally:
 2-open folder with vs. 
 3-install vite"npm install vite".
 4-npm ren dev.
-n5-pm start .
+5-npm start .
